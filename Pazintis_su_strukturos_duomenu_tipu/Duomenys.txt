@@ -1,0 +1,6 @@
+5
+Petras          20
+Jurgis          13
+Algis           18
+Robertas         9
+Kasparas        26

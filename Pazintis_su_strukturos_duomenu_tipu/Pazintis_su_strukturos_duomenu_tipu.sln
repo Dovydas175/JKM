@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Pazintis_su_strukturos_duomenu_tipu", "Pazintis_su_strukturos_duomenu_tipu.vcxproj", "{9155A01A-A7FE-4C20-8084-A5D72EBCEDCC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9155A01A-A7FE-4C20-8084-A5D72EBCEDCC}.Debug|x64.ActiveCfg = Debug|x64
+		{9155A01A-A7FE-4C20-8084-A5D72EBCEDCC}.Debug|x64.Build.0 = Debug|x64
+		{9155A01A-A7FE-4C20-8084-A5D72EBCEDCC}.Debug|x86.ActiveCfg = Debug|Win32
+		{9155A01A-A7FE-4C20-8084-A5D72EBCEDCC}.Debug|x86.Build.0 = Debug|Win32
+		{9155A01A-A7FE-4C20-8084-A5D72EBCEDCC}.Release|x64.ActiveCfg = Release|x64
+		{9155A01A-A7FE-4C20-8084-A5D72EBCEDCC}.Release|x64.Build.0 = Release|x64
+		{9155A01A-A7FE-4C20-8084-A5D72EBCEDCC}.Release|x86.ActiveCfg = Release|Win32
+		{9155A01A-A7FE-4C20-8084-A5D72EBCEDCC}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0D0B05A4-39B9-4C40-81F4-5A2E20E30472}
+	EndGlobalSection
+EndGlobal
