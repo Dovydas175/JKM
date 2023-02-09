@@ -3,6 +3,8 @@
 #include <string>
 #include <iomanip>
 
+using namespace std;
+
 struct Miestas {
 	string pav, valst;
 	int kiek;
@@ -18,7 +20,7 @@ void Spausdinti(Miestas A[], int n, string pav);
 void Atrinkti(Miestas A[], int n, Miestas B[], int& m);
 int Yra(Miestas A[], int n, string pav);
 
-using namespace std;
+
 int main()
 {
 	Miestas A[CMax]; int n;
