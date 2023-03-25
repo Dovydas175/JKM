@@ -1,0 +1,37 @@
+
+Klases mokiniu sarasas
+--------------------------
+   Vardas       Taskai    
+--------------------------
+  Petras            16        
+  Jonas             17        
+  Rokas             18        
+--------------------------
+
+
+
+Klases mokiniu sarasas
+--------------------------
+   Vardas       Taskai    
+--------------------------
+  Petras            16        
+  Jonas             17        
+  Rokas             18        
+--------------------------
+
+
+
+Mokiniu, surinkusiu ne maziau kaip 15 tasku, sarasas
+--------------------------
+   Vardas       Taskai    
+--------------------------
+  Petras            16        
+  Jonas             17        
+  Rokas             18        
+--------------------------
+
+
+
+Klases mokinys vidutiniskai surinko:    17
+Taikliausias klases mokinys:            Rokas
+Atrinktas mokinys vidutiniskai surinko: 17
